@@ -8,5 +8,5 @@
 		"base >= 2.0",
 		"? aai-industry"
 	],
-	"description": "Show stack size of item near name, example: Coal [100]\nand uniform recipe, showing below the recipe what and how much you will get from the resources."
+	"description": "Show stack size of item near name, example: Coal [100]\nand changes the recipe visualization, showing below the recipe what and how much you will get from the resources."
 }
