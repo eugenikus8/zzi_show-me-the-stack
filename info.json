@@ -1,12 +1,12 @@
 {
-	"name": "show-me-the-stack",
-	"version": "2.0.8",
-	"title": "Show me the stack",
-	"author": "eugenikus8",
-	"factorio_version": "2.0",
-	"dependencies": [
-		"base >= 2.0",
-		"? aai-industry"
-	],
-	"description": "Show stack size of item near name, example: Coal [100]\nand changes the recipe visualization, showing below the recipe what and how much you will get from the resources."
+   "name": "zzi_show-me-the-stack",
+   "version": "2.0.1",
+   "title": "Show me the stack",
+   "author": "eugenikus8",
+   "factorio_version": "2.0",
+   "dependencies":
+   [
+      "base >= 2.0"
+   ],
+   "description": "Show stack size of item near name, example: Coal [100]\nand changes the recipe visualization, showing below the recipe what and how much you will get from the resources."
 }
